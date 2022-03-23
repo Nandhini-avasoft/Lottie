@@ -1,0 +1,16 @@
+C:\Users\Nandhini.B\source\repos\LottieLoaders\LottieLoaders\LottieLoaders\bin\Debug\netstandard2.0\LottieLoaders.deps.json
+C:\Users\Nandhini.B\source\repos\LottieLoaders\LottieLoaders\LottieLoaders\bin\Debug\netstandard2.0\LottieLoaders.dll
+C:\Users\Nandhini.B\source\repos\LottieLoaders\LottieLoaders\LottieLoaders\bin\Debug\netstandard2.0\ref\LottieLoaders.dll
+C:\Users\Nandhini.B\source\repos\LottieLoaders\LottieLoaders\LottieLoaders\bin\Debug\netstandard2.0\LottieLoaders.pdb
+C:\Users\Nandhini.B\source\repos\LottieLoaders\LottieLoaders\LottieLoaders\obj\Debug\netstandard2.0\LottieLoaders.csproj.AssemblyReference.cache
+C:\Users\Nandhini.B\source\repos\LottieLoaders\LottieLoaders\LottieLoaders\obj\Debug\netstandard2.0\LottieLoaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nandhini.B\source\repos\LottieLoaders\LottieLoaders\LottieLoaders\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nandhini.B\source\repos\LottieLoaders\LottieLoaders\LottieLoaders\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nandhini.B\source\repos\LottieLoaders\LottieLoaders\LottieLoaders\obj\Debug\netstandard2.0\Views\CreateLottieScreen.xaml.g.cs
+C:\Users\Nandhini.B\source\repos\LottieLoaders\LottieLoaders\LottieLoaders\obj\Debug\netstandard2.0\LottieLoaders.AssemblyInfoInputs.cache
+C:\Users\Nandhini.B\source\repos\LottieLoaders\LottieLoaders\LottieLoaders\obj\Debug\netstandard2.0\LottieLoaders.AssemblyInfo.cs
+C:\Users\Nandhini.B\source\repos\LottieLoaders\LottieLoaders\LottieLoaders\obj\Debug\netstandard2.0\LottieLoaders.csproj.CoreCompileInputs.cache
+C:\Users\Nandhini.B\source\repos\LottieLoaders\LottieLoaders\LottieLoaders\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nandhini.B\source\repos\LottieLoaders\LottieLoaders\LottieLoaders\obj\Debug\netstandard2.0\LottieLoaders.dll
+C:\Users\Nandhini.B\source\repos\LottieLoaders\LottieLoaders\LottieLoaders\obj\Debug\netstandard2.0\ref\LottieLoaders.dll
+C:\Users\Nandhini.B\source\repos\LottieLoaders\LottieLoaders\LottieLoaders\obj\Debug\netstandard2.0\LottieLoaders.pdb
